@@ -2,6 +2,7 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
+//add in comments
 function Cards() {
   return (
     <div className='cards'>
